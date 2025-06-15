@@ -2,7 +2,7 @@
 
 Este projeto apresenta um dashboard de vendas, construído em excel, referente a base de dados de vendas de jogos Xbox.
 
-Nesse Desafio foi trabalhado conceitos relacionados à Excel como: 
+Nesse Desafio foram trabalhados conceitos relacionados à Excel como: 
 análise de dados, ETL, tabelas dinâmicas, formatações condicionais, criação de menus de navegação, uso de imagens, fórmulas, cálculos, links, organização, boas práticas, entre outros.
 
 
